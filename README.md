@@ -1,7 +1,7 @@
 # Data Engineering & CI/CD Pipeline (Iceberg/MLOps Focus)
 
 ## Overview
-This project demonstrates an end-to-end data pipeline using Apache Iceberg, PySpark, and MLflow, managed by a CI/CD pipeline (GitHub Actions). It ingests new log data, merges it into an Iceberg table, trains a machine learning model, and registers the model artifact.
+This code demonstrates an end-to-end data pipeline using Apache Iceberg, PySpark, and MLflow, managed by a CI/CD pipeline (GitHub Actions). It ingests new log data, merges it into an Iceberg table, trains a machine learning model, and registers the model artifact.
 
 ### Architecture
 - **Data Ingestion & ETL:**
