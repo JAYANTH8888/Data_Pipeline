@@ -1,4 +1,3 @@
-# jm_requirement
 # Entity resolution utilities for corporate data harmonization
 import re
 from pyspark.sql.functions import udf, col, lower, regexp_replace, trim
